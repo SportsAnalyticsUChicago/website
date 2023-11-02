@@ -2,9 +2,8 @@
 lang: en
 title: Sports Analytics Group
 tagline: Where Sports Meets Analytics
-email: your-email@domain.com
-description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+email: uchicago.sports.analytics.rso@gmail.com
+description: The UChicago Sports Analytics Site, Currently Under Development
 baseurl: "/website"
 url: "https://sportsanalyticsuchicago.github.io/"
 permalink:
