@@ -1,14 +1,14 @@
 ---
 title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+subtitle: Work in Progress
 layout: page
 callouts: home_callouts
 show_sidebar: true
 ---
 
-# Bulma Clean Theme demo website
+# Sports Analytics Site
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+Welcome to UChicago Sports Analytics! Sign up for emails here: [https://forms.gle/ao4DfF2sB6oBUW98A ]
 
 [![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
 ![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
