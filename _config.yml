@@ -1,15 +1,15 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
+title: Sports Analytics Group
+tagline: Where Sports Meets Analytics
 email: your-email@domain.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
 baseurl: "/website"
 url: "https://sportsanalyticsuchicago.github.io/"
-permalink: pretty
+permalink:
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+gh_sponsor:
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
