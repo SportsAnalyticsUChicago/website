@@ -34,7 +34,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1><i>We were (new board info coming soon!):</i></h1>
+			<h1><i>We are:</i></h1>
 		</header>
 
 <!-- Content Three-->
