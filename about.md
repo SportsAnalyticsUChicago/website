@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: page
 title: About Us
 description: Learn more about the Sports Analytics Group and our leadership
 image: assets/images/about.png
