@@ -1,20 +1,20 @@
 - name: Docs
-  link: /docs/
+  link: /docs
 - name: Example Pages
   link: /#
   dropdown:
     - name: Landing Page With Callouts
-      link: /landing/
+      link: /landing
     - name: Sponsors Page
-      link: /sponsors/
+      link: /sponsors
     - name: Image Gallery
-      link: /gallery/
+      link: /gallery
     - name: Products
-      link: /products/
+      link: /products
     - name: Recipe Page
-      link: /example-recipe/
+      link: /example-recipe
     - name: Showcase
-      link: /showcase/
+      link: /showcase
 - name: Blog
   link: /blog/
 - name: About Us
