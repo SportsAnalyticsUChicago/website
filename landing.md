@@ -1,16 +1,15 @@
 ---
 layout: page
-title: Example Landing Page
-subtitle: This is an example landing page with callouts
+title: Under construction
+subtitle: This UChicago Sports Analytics Page is under construction
 hero_height: is-large
-hero_link: /page-1/
-hero_link_text: Example Call To Action
+hero_link: /
+hero_link_text: Go Home
 show_sidebar: false
 callouts: example_callouts
 ---
 
-This is an example landing page. It is built using the Hero and Callouts.
+This page is under construction
+[View our Insta](https://www.instagram.com/uchicago.sports.analytics/)
 
-[View the Hero docs](/bulma-clean-theme/docs/pages/hero/)
-
-[View the Callouts docs](/bulma-clean-theme/docs/page-components/callouts)
+[View our Linktree](https://linktr.ee/uchicago.sports.analytics)
